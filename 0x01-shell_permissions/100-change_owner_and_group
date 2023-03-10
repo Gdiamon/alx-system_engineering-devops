@@ -1,2 +1,7 @@
 #!/bin/bash
-chown vincent staff *
+chown vincent
+chgrp staff#!/bin/bash
+chown vincent
+chgrp staff#!/bin/bash
+chown vincent
+chgrp staff
